@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James, currently studying frontend ( basically starting out from beginning and see what direction I
 go in.)
 - Passionate about technology and eager to expand my skills and learn more during this journey.
--  After having a career as an automotive tech, hoping to bring those skills I used to diagnose and repair to this field.
+-  After having a career as an automotive tech, hoping to bring the skills I used to diagnose and repair to this IT field.
 - 👀 Strong interest in both front-end/back-end and cyber security.  
 - 💞️ I’m looking for ideas, projects, or advice, anything that can help me understand and learn much more.
 - 📫 
